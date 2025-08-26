@@ -55,4 +55,4 @@ Worked on Django-based authentication systems, APIs, and backend development. Ga
 
 ---
 
-_**Let’s connect!** Feel free to reach out or check out my repos for more cool projects.
+**Let’s connect!** Feel free to reach out or check out my repos for more cool projects.
