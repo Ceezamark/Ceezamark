@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Chineme Mark
-
-**Location:** Owerri, Nigeria  
+ 
 **Email:** nduokoronkwochinememark@gmail.com  
 **GitHub:** [Ceezamark](https://github.com/Ceezamark)
 
